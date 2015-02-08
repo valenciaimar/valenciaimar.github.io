@@ -1,0 +1,110 @@
+body {
+  margin-top: 30px;
+  background-color: black;
+  background-image: url(../images/ad17.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+.navbar-inverse .navbar-brand {
+  font-family: 'aharoni', cursive;
+  font-size: 36px;
+  color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  Background-color: purple;
+}
+.jumbotron {
+  font-family: 'arial', bold;
+  padding: 12px 12px 12px 12px;
+  border: thin;
+  background-color: #8fbc8f;F08080
+  color: black;
+}
+.btn-primary {
+  font-family: 'palatino linotype', cursive;
+  border-color: black;
+  background-color: #556b2f;#800000
+  color: white;
+  padding: 10px 10px 10px 10px;
+}
+
+h1.title {
+  padding: 0 30px 30px 0;
+
+}
+
+h2 {
+  font-size: 22px;
+}
+
+#ad2 {
+  width: 200px;
+  height: 160px;
+}
+#ad3 {
+  width: 200px;
+  height: 160px;
+}
+#ad4 {
+  width: 200px;
+  height: 160px;
+}
+#ad5 {
+  width: 200px;
+  height: 160px;
+}
+#ad6 {
+  width: 200px;
+  height: 160px;
+}
+#ad7 {
+  width: 200px;
+  height: 160px;
+}
+#ad8 {
+  width: 200px;
+  height: 160px;
+}
+#ad9 {
+  width: 200px;
+  height: 160px;
+}
+#ad10 {
+  width: 200px;
+  height: 160px;
+}
+#ad11 {
+  width: 200px;
+  height: 160px;
+}
+#ad12 {
+  width: 350px;
+  height: 245px;
+}
+#ad13 {
+  width: 350px;
+  height: 245px;
+}
+#ad14 {
+  width: 350px;
+  height: 245px;
+}
+#ad15 {
+  width: 350px;
+  height: 245px;
+}
+#ad1 {
+  width: 380px;
+  height: 295px;
+}
+#table {
+background-color: white;
+color: black;
+border-color: black;
+}
+#b {
+background-color: #800000;
+color: white;
+border-color: black;
+}
