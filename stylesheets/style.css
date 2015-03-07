@@ -12,7 +12,7 @@ body {
   color: black;
   padding-top: 20px;
   padding-bottom: 20px;
-  Background-color: purple;
+  Background-color: green;
 }
 .jumbotron {
   font-family: 'arial', bold;
@@ -97,6 +97,11 @@ h2 {
 #ad1 {
   width: 380px;
   height: 295px;
+}
+#ad18 {
+  width: 45px;
+  height: 38px;
+  padding-bottom: 10px;
 }
 #table {
 background-color: white;
